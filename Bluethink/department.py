@@ -1,0 +1,1 @@
+print("In the Bluethink Company there are three department Sales, Tech, HR")
